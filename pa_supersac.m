@@ -16,6 +16,7 @@ function SupSac = pa_supersac(Sac,Stim,type,stimnr,sfreq)
 % See also SUPINDEX, MATCHSAC, SPLIT
 %
 %  02-05-01 Marcus
+% a minor change
 
 %% Initialization
 if nargin<3
